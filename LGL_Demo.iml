@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="EclipseModuleManager">
+    <libelement value="jar://$MODULE_DIR$/lib/base/core/core.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/base/core/gluegen-rt-natives-linux-amd64.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/base/core/gluegen-rt-natives-linux-armv6hf.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/base/core/gluegen-rt-natives-linux-i586.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/base/core/gluegen-rt-natives-macosx-universal.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/base/core/gluegen-rt-natives-windows-amd64.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/base/core/gluegen-rt-natives-windows-i586.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/base/core/gluegen-rt.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/base/core/jogl-all-natives-linux-amd64.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/base/core/jogl-all-natives-linux-armv6hf.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/base/core/jogl-all-natives-linux-i586.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/base/core/jogl-all-natives-macosx-universal.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/base/core/jogl-all-natives-windows-amd64.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/base/core/jogl-all-natives-windows-i586.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/base/core/jogl-all.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/user/ThinkGear/ThinkGear.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/sqljdbc4.jar!/" />
+    <src_description expected_position="0">
+      <src_folder value="file://$MODULE_DIR$/src" expected_position="0" />
+    </src_description>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/bin" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library name="core.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/base/core/core.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <NATIVE>
+          <root url="file://ThinkGearDemo/lib/base/core" />
+        </NATIVE>
+        <SOURCES>
+          <root url="file://C:/Users/For/eclipse-workspace/ThinkGearDemo/lib/base/core/core.jar" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="gluegen-rt-natives-linux-amd64.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/base/core/gluegen-rt-natives-linux-amd64.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <NATIVE>
+          <root url="file://ThinkGearDemo/lib/base/core" />
+        </NATIVE>
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="gluegen-rt-natives-linux-armv6hf.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/base/core/gluegen-rt-natives-linux-armv6hf.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <NATIVE>
+          <root url="file://ThinkGearDemo/lib/base/core" />
+        </NATIVE>
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="gluegen-rt-natives-linux-i586.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/base/core/gluegen-rt-natives-linux-i586.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <NATIVE>
+          <root url="file://ThinkGearDemo/lib/base/core" />
+        </NATIVE>
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="gluegen-rt-natives-macosx-universal.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/base/core/gluegen-rt-natives-macosx-universal.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <NATIVE>
+          <root url="file://ThinkGearDemo/lib/base/core" />
+        </NATIVE>
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="gluegen-rt-natives-windows-amd64.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/base/core/gluegen-rt-natives-windows-amd64.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <NATIVE>
+          <root url="file://ThinkGearDemo/lib/base/core" />
+        </NATIVE>
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="gluegen-rt-natives-windows-i586.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/base/core/gluegen-rt-natives-windows-i586.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <NATIVE>
+          <root url="file://ThinkGearDemo/lib/base/core" />
+        </NATIVE>
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="gluegen-rt.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/base/core/gluegen-rt.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <NATIVE>
+          <root url="file://ThinkGearDemo/lib/base/core" />
+        </NATIVE>
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="jogl-all-natives-linux-amd64.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/base/core/jogl-all-natives-linux-amd64.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <NATIVE>
+          <root url="file://ThinkGearDemo/lib/base/core" />
+        </NATIVE>
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="jogl-all-natives-linux-armv6hf.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/base/core/jogl-all-natives-linux-armv6hf.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <NATIVE>
+          <root url="file://ThinkGearDemo/lib/base/core" />
+        </NATIVE>
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="jogl-all-natives-linux-i586.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/base/core/jogl-all-natives-linux-i586.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <NATIVE>
+          <root url="file://ThinkGearDemo/lib/base/core" />
+        </NATIVE>
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="jogl-all-natives-macosx-universal.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/base/core/jogl-all-natives-macosx-universal.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <NATIVE>
+          <root url="file://ThinkGearDemo/lib/base/core" />
+        </NATIVE>
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="jogl-all-natives-windows-amd64.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/base/core/jogl-all-natives-windows-amd64.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <NATIVE>
+          <root url="file://ThinkGearDemo/lib/base/core" />
+        </NATIVE>
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="jogl-all-natives-windows-i586.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/base/core/jogl-all-natives-windows-i586.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <NATIVE>
+          <root url="file://ThinkGearDemo/lib/base/core" />
+        </NATIVE>
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="jogl-all.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/base/core/jogl-all.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <NATIVE>
+          <root url="file://ThinkGearDemo/lib/base/core" />
+        </NATIVE>
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="ThinkGear.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/user/ThinkGear/ThinkGear.jar!/" />
+        </CLASSES>
+        <JAVADOC>
+          <root url="file:/Volumes/MOTHERLOAD/PROCESSING/libraries/ThinkGear/reference/" />
+        </JAVADOC>
+        <NATIVE>
+          <root url="file://ThinkGearDemo/lib/user/ThinkGear" />
+        </NATIVE>
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/lib/base/core/jogl-all-natives-windows-amd64.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="sqljdbc4.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/sqljdbc4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="inheritedJdk" />
+  </component>
+</module>
